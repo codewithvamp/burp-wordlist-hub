@@ -480,22 +480,6 @@ Very large repositories may also return a truncated Git tree. WordlistHub detect
 
 ---
 
-# 📸 Screenshots
-
-Screenshots will be added here.
-
-Recommended screenshots:
-
-```text
-1. WordlistHub Browse tab
-2. Searching SecLists
-3. Wordlist preview
-4. Adding a GitHub repository
-5. Cache management
-6. Selecting Wordlist Hub inside Intruder
-```
-
----
 
 # 🗺 Roadmap
 
