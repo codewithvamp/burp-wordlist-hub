@@ -332,7 +332,7 @@ jython-standalone-2.7.x.jar
 Clone the repository:
 
 ```bash
-git clone [https://github.com/YOUR-USERNAME/burp-wordlist-hub.git](https://github.com/codewithvamp/burp-wordlist-hub)
+git clone https://github.com/codewithvamp/burp-wordlist-hub
 ```
 
 Or download the repository as ZIP.
